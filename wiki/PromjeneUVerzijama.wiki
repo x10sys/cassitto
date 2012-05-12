@@ -1,0 +1,7 @@
+#Promjene u verzijama programa
+
+#Incijalna verzija programa
+
+= O programu =
+
+Cassitto je namjenski program za evidentiranje održavanje članova i skladišta robe.
