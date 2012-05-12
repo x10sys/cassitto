@@ -1,3 +1,10 @@
 = O programu =
 
 Cassitto je namjenski program za evidentiranje održavanje članova i skladišta robe.
+---
+= Verzija 0.2 =
+  * [http://code.google.com/p/cassitto/issues/detail?id=6 Issue 6]: Dodana Donacija+
+  * Funkcija nove verzije prikazuje status dijalog
+
+= Verzija 0.1 =
+  * Inicijalna verzija programa
