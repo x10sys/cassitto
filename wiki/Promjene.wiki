@@ -2,25 +2,27 @@
 = O programu =
 
 Cassitto je namjenski program za evidentiranje održavanje članova i skladišta robe.
+
+Ovdje možete vidjeti promjene kroz verzije programa
 ---
-= Verzija 0.5 =
+== Verzija 0.5 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=17 Issue 17]: Provjera nove verzije, početna poruka
   * [http://code.google.com/p/cassitto/issues/detail?id=18 Issue 18]: Članovi, prikaz bodova
   * [http://code.google.com/p/cassitto/issues/detail?id=19 Issue 19]: Greška trenutnostanje kod unosa prvog artikla u nabavi
   * [http://code.google.com/p/cassitto/issues/detail?id=20 Issue 20]: Dodavanje grupe u kreaciji novog artikla
 
-= Verzija 0.4 =
+== Verzija 0.4 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=15 Issue 15]: Izdavanje robe bez bodova na računu
 
-= Verzija 0.3 =
+== Verzija 0.3 ==
   * Na izadavanju robe, dodana mogućnost odabira člana po broju
   * [http://code.google.com/p/cassitto/issues/detail?id=5 Issue 5]: Unaprijeđena provjera nove verzije
   * [http://code.google.com/p/cassitto/issues/detail?id=9 Issue 9]: Unaprijeđena pretraga korisnika kod izdavanja robe
   * [http://code.google.com/p/cassitto/issues/detail?id=11 Issue 11]: Ispravljen inicijalni upis administratora
 
-= Verzija 0.2 =
+== Verzija 0.2 ==
   * Funkcija nove verzije prikazuje status dijalog
   * [http://code.google.com/p/cassitto/issues/detail?id=6 Issue 6]: Dodana Donacija+
 
-= Verzija 0.1 =
+== Verzija 0.1 ==
   * Inicijalna verzija programa
