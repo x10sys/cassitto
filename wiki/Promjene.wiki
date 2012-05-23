@@ -5,6 +5,11 @@ Cassitto je namjenski program za evidentiranje održavanje članova i skladišta
 
 Ovdje možete vidjeti promjene kroz verzije programa
 ----
+== Cassitto 0.6 ==
+  * [http://code.google.com/p/cassitto/issues/detail?id=4 Issue 4]: Uređivanje članova - filter i pretraga
+  * [http://code.google.com/p/cassitto/issues/detail?id=21 Issue 21]: Keš kod izdavanja potvrde
+  * [http://code.google.com/p/cassitto/issues/detail?id=22 Issue 22]: Slike članova
+
 == Cassitto 0.5 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=17 Issue 17]: Provjera nove verzije, početna poruka
   * [http://code.google.com/p/cassitto/issues/detail?id=18 Issue 18]: Članovi, prikaz bodova
