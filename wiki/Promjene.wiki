@@ -9,7 +9,7 @@ Ovdje možete vidjeti promjene kroz verzije programa.
 == Cassitto 0.8 ==
   * Unaprijeđena pretraga korisnika (kroz cijeli program)
   * Unaprijeđeno izdavanje računa (prilagođen ispis A5 formatu)
-  * Dorada GUI (dodane ikonice u izbornicima)
+  * Dorada GUI (dodane ikonice u izbornicima, promjena boja)
   * [http://code.google.com/p/cassitto/issues/detail?id=23 Issue 23]: Pretraga članova
   * [http://code.google.com/p/cassitto/issues/detail?id=24 Issue 24]: Dodati promjenu konobara
 
