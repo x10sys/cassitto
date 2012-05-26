@@ -3,8 +3,9 @@
 
 Cassitto je namjenski program za evidentiranje održavanje članova i skladišta robe.
 
-Ovdje možete vidjeti promjene kroz verzije programa
+Ovdje možete vidjeti promjene kroz verzije programa.
 ----
+= Izmjene =
 == Cassitto 0.8 ==
   * Unaprijeđena pretraga korisnika (kroz cijeli program)
   * Unaprijeđeno izdavanje računa (prilagođen ispis A5 formatu)
