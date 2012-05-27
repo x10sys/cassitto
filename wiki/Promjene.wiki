@@ -6,6 +6,10 @@ Cassitto je namjenski program za evidentiranje održavanje članova i skladišta
 Ovdje možete vidjeti promjene kroz verzije programa.
 ----
 = Promjene po verzijama =
+== Cassitto 0.9 ==
+  * Dodan automatski odabir novo-kreiranog člana
+  * Uređivanje članova, znak + na tipkovnici otvara kreiranje novog člana
+
 == Cassitto 0.8 ==
   * Unaprijeđena pretraga korisnika (kroz cijeli program)
   * Unaprijeđeno izdavanje računa (prilagođen ispis A5 formatu)
