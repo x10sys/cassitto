@@ -1,5 +1,8 @@
 #labels Featured
 = Promjene po verzijama =
+== Cassitto 0.9.1 ==
+  * [http://code.google.com/p/cassitto/issues/detail?id=27 Issue 27]: Sejvanje e-mail lista
+
 == Cassitto 0.9 ==
   * Dodan automatski odabir novo-kreiranog člana
   * Uređivanje članova, znak + na tipkovnici otvara kreiranje novog člana
