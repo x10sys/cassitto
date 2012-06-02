@@ -2,6 +2,7 @@
 = Promjene po verzijama =
 == Cassitto 0.9.2 ==
   * Dodano listanje prometa dana
+  * Poboljšanja kod listanja artikala na izdavanju robe
 
 == Cassitto 0.9.1 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=27 Issue 27]: Sejvanje e-mail lista
