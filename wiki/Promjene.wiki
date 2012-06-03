@@ -1,6 +1,6 @@
 #labels Featured
 = Promjene po verzijama =
-== Cassitto 0.9.2 ==
+== Cassitto 0.10 ==
   * Dodano listanje prometa dana
   * Poboljšanja kod listanja artikala na izdavanju robe
   * [http://code.google.com/p/cassitto/issues/detail?id=3 Issue 3]: Napraviti uređivanje artikala
