@@ -4,6 +4,7 @@
   * Dodano listanje prometa dana
   * Poboljšanja kod listanja artikala na izdavanju robe
   * [http://code.google.com/p/cassitto/issues/detail?id=3 Issue 3]: Napraviti uređivanje artikala
+  * Poboljšanje odabira datuma za istek članarine
 
 == Cassitto 0.9.1 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=27 Issue 27]: Sejvanje e-mail lista
