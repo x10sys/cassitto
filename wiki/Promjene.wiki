@@ -1,5 +1,8 @@
 #labels Featured
 = Promjene po verzijama =
+== Cassitto 1.1.5 ==
+  * [http://code.google.com/p/cassitto/issues/detail?id=28 Issue 28]: Lista duga
+
 == Cassitto 1.0.1 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=29 Issue 29]: Nemogucnost izdavanje racuna - dodavanje 2. artikla
 
