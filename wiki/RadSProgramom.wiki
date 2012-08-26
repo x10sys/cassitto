@@ -1,0 +1,8 @@
+#labels Featured
+= Dugovanja =
+
+Izdavanje robe na dug ne ulazi u promet dana, već se čuva u memoriji kao artikli koji će jednom biti preneseni u račun.
+
+Na glavnom prozoru programa, duplim klikom na unos liste dugovanja, otvara se dijalog gdje možete odabrati koje artikle želite prenijeti u novi račun te na takav način otpisati ih kao dug.
+
+Jednom kada su ti artikli preneseni u račun, više se ne nalaze u listi dugovanja te mogu biti izdani.
