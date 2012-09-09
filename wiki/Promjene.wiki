@@ -1,5 +1,9 @@
 #labels Featured
 = Promjene po verzijama =
+== Cassitto 1.2.0 ==
+  * [http://code.google.com/p/cassitto/issues/detail?id=31 Issue 31]: Promet određenog dana
+  * [http://code.google.com/p/cassitto/issues/detail?id=32 Issue 32]: Izgled računa
+
 == Cassitto 1.1.5 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=28 Issue 28]: Lista duga
 
