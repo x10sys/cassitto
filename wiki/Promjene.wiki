@@ -1,5 +1,12 @@
 #labels Featured
 = Promjene po verzijama =
+== Cassitto 1.3.0 ==
+  * [http://code.google.com/p/cassitto/issues/detail?id=33 Issue 33]: Traženje članova kod izdavanje računa
+  * [http://code.google.com/p/cassitto/issues/detail?id=34 Issue 34]: Uvid u izdane račune
+  * [http://code.google.com/p/cassitto/issues/detail?id=35 Issue 35]: Iznos donacije koja se uplaćuje
+  * [http://code.google.com/p/cassitto/issues/detail?id=37 Issue 37]: Zakljucavanje kase
+  * [http://code.google.com/p/cassitto/issues/detail?id=38 Issue 38]: Ubrzavanje procesa kod izdavanja Računa
+
 == Cassitto 1.2.0 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=31 Issue 31]: Promet određenog dana
   * [http://code.google.com/p/cassitto/issues/detail?id=32 Issue 32]: Izgled računa
