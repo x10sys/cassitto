@@ -1,7 +1,7 @@
 #labels Featured
 = Promjene po verzijama =
 == Cassitto 1.5.0 ==
-  * [http://code.google.com/p/cassitto/issues/detail?id=39 Issue 30]: Stanje zaliha
+  * [http://code.google.com/p/cassitto/issues/detail?id=30 Issue 30]: Stanje zaliha
 
 == Cassitto 1.4.0 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=39 Issue 39]: Izdavanje na dug
