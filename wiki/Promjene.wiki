@@ -1,5 +1,9 @@
 #labels Featured
 = Promjene po verzijama =
+== Cassitto 1.6.0 ==
+  * [http://code.google.com/p/cassitto/issues/detail?id=40 Issue 40]: Dopustenje administratora
+  * [http://code.google.com/p/cassitto/issues/detail?id=41 Issue 41]: Stanje zaliha - izvještaj
+
 == Cassitto 1.5.0 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=30 Issue 30]: Stanje zaliha
 
