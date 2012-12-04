@@ -1,5 +1,8 @@
 #labels Featured
 = Promjene po verzijama =
+== Cassitto 1.7.0 ==
+  * [http://code.google.com/p/cassitto/issues/detail?id=43 Issue 43]: Razno, dodan backup & restore
+
 == Cassitto 1.6.0 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=40 Issue 40]: Dopustenje administratora
   * [http://code.google.com/p/cassitto/issues/detail?id=41 Issue 41]: Stanje zaliha - izvještaj
