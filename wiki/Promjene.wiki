@@ -2,6 +2,7 @@
 = Promjene po verzijama =
 == Cassitto 1.7.0 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=43 Issue 43]: Razno, dodan backup & restore
+  * dodano formatiranje brojeva kod ispisa (primjer: 1.234,56)
 
 == Cassitto 1.6.0 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=40 Issue 40]: Dopustenje administratora
