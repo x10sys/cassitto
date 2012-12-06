@@ -1,7 +1,10 @@
 #labels Featured
 = Promjene po verzijama =
+== Cassitto 1.8.0 ==
+  * [http://code.google.com/p/cassitto/issues/detail?id=43 Issue 43]: Razno, ubrzano punjenje svih lista u Cassittu
+
 == Cassitto 1.7.0 ==
-  * [http://code.google.com/p/cassitto/issues/detail?id=43 Issue 42]: Dodana mogućnost listanja primki
+  * [http://code.google.com/p/cassitto/issues/detail?id=42 Issue 42]: Dodana mogućnost listanja primki
   * [http://code.google.com/p/cassitto/issues/detail?id=43 Issue 43]: Razno, dodan backup & restore
   * [http://code.google.com/p/cassitto/issues/detail?id=43 Issue 43]: Razno, dodan promet artikla
   * Dodano formatiranje brojeva kod ispisa (primjer: 1.234,56)
