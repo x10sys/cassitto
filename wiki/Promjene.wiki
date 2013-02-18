@@ -4,6 +4,7 @@
   * Ažuriran račun/potvrda o donaciji, Cassitto sada ispisuje potvrdu o donaciji, a u dijalogu Račun i donacije... mogu se ispisati računi naknadno
   * Ažuriran dijalog Računi i donacije..., inicijalno otvaranje dijaloga prikazuje posljednjih 50 računa, a svi računi mogu biti naknadno prikazani
   * Ažuriran prikaz ukupnog iznosa kod izdavanja i zaprimanja robe
+  * Dodan automatski ispis potvrde primke robe kod zaprimanja robe.
 
 == Cassitto 1.8.0 ==
   * [http://code.google.com/p/cassitto/issues/detail?id=43 Issue 43]: Razno, ubrzano punjenje svih lista u Cassittu, gdje je potrebno - dodan je progress bar
