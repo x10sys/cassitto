@@ -1,5 +1,8 @@
 #labels Featured
 = Promjene po verzijama =
+== Cassitto 1.9.1 ==
+  * Dodano sučelje za izdavanje potvrda o donaciji
+
 == Cassitto 1.9.0 ==
   * Ažuriran račun/potvrda o donaciji, Cassitto sada ispisuje potvrdu o donaciji, a u dijalogu Račun i donacije... mogu se ispisati računi naknadno
   * Ažuriran dijalog Računi i donacije..., inicijalno otvaranje dijaloga prikazuje posljednjih 50 računa, a svi računi mogu biti naknadno prikazani
