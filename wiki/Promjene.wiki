@@ -4,6 +4,9 @@
   * GUI dorade
   * Optimiziran spis računa i potvrde o donaciji za POS pisače
   * Dodano uređivanje članova kod izdavanja potvrde o donaciji
+  * Dodan dijalog Postavke
+  * Dodana mogućnost odabira vrste ispisa (POS/desktop pisač)
+  * Dodana mogućnost automatskog ispisa
 
 == Cassitto 1.9.1 ==
   * Dodano sučelje za izdavanje potvrda o donaciji
