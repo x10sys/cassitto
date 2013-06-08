@@ -1,5 +1,12 @@
 #labels Featured
 = Promjene po verzijama =
+== Cassitto 1.9.7 ==
+  * Prilagođeno listanje kartica članova
+  * Dodano automatsko bekapiranje baze podataka
+
+== Cassitto 1.9.6 ==
+  * Dodano listanje kartica članova
+
 == Cassitto 1.9.5 ==
   * GUI dorade
   * Optimiziran ispis računa i potvrde o donaciji za POS pisače
